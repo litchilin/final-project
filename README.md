@@ -1,7 +1,7 @@
 # Final Project Template
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marskar/final-project/master?urlpath=lab/tree/final-project.ipynb)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marskar/final-project/blob/master/final-project.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/litchilin/final-project/master?urlpath=lab/tree/final-project.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/litchilin/final-project/blob/master/final-project.ipynb)
 
 This repository contains a template for final projects.
 
